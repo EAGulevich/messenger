@@ -34,7 +34,7 @@ $ npm run dev
 
 ## Полезные ссылки
 * [Прототип в Figma](https://www.figma.com/file/JbTi3UC2k7B7QVvXOsYiwI/%D0%9C%D0%B5%D1%81%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80?node-id=0%3A1)
-* [Демо](https://gulevich-messenger.netlify.app/)
+* [Демо](https://gulevich-messenger.netlify.app/auth)
 * [Чеклист](https://code.s3.yandex.net/frontend-developer/middle%20frontend/1%20sprint/index1spr.html)
 * [Задание](https://code.s3.yandex.net/frontend-developer/middleFrontend/roadmaps/sprint1/print_map_sprint1.pdf)
-* [Ссылка на pull request Sprint 1](https://github.com/EAGulevich/messenger/pulls)
+* [Ссылка на pull request Sprint 1](https://github.com/EAGulevich/messenger/pull/1)
